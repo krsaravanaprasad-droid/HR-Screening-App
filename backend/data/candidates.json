@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Ava Thompson",
+    "email": "ava.thompson@example.com",
+    "location": "Austin, TX",
+    "currentTitle": "Senior Frontend Engineer",
+    "experienceYears": 6,
+    "skills": ["react", "javascript", "typescript", "redux", "css", "html", "jest"]
+  },
+  {
+    "id": 2,
+    "name": "Noah Martinez",
+    "email": "noah.martinez@example.com",
+    "location": "San Francisco, CA",
+    "currentTitle": "Backend Engineer",
+    "experienceYears": 4,
+    "skills": ["node", "express", "mongodb", "sql", "aws", "docker", "api"]
+  },
+  {
+    "id": 3,
+    "name": "Mia Patel",
+    "email": "mia.patel@example.com",
+    "location": "New York, NY",
+    "currentTitle": "Full Stack Developer",
+    "experienceYears": 5,
+    "skills": ["react", "node", "express", "postgresql", "graphql", "typescript", "aws"]
+  },
+  {
+    "id": 4,
+    "name": "Liam Chen",
+    "email": "liam.chen@example.com",
+    "location": "Chicago, IL",
+    "currentTitle": "Data Engineer",
+    "experienceYears": 7,
+    "skills": ["python", "sql", "airflow", "spark", "aws", "etl", "docker"]
+  },
+  {
+    "id": 5,
+    "name": "Sophia Johnson",
+    "email": "sophia.johnson@example.com",
+    "location": "Seattle, WA",
+    "currentTitle": "Lead Software Engineer",
+    "experienceYears": 8,
+    "skills": ["java", "spring", "microservices", "kubernetes", "aws", "sql", "api"]
+  }
+]
